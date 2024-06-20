@@ -1,0 +1,7 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react" // Specify the JSX mode (react or preserve)
+    // Other compiler options...
+  }
+}

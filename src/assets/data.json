@@ -1,0 +1,287 @@
+[
+    {
+        "id": 158,
+        "name": "4K Ultra HD TVs",
+        "slug": "4k-ultra-hd-tvs",
+        "parent": 139,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/158"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/139"
+                }
+            ]
+        }
+    },
+    {
+        "id": 189,
+        "name": "Accessories",
+        "slug": "accessories",
+        "parent": 160,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 4,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/189"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/160"
+                }
+            ]
+        }
+    },
+    {
+        "id": 159,
+        "name": "Accessories",
+        "slug": "accessories-clothing-apparel",
+        "parent": 65,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 4,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/159"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/65"
+                }
+            ]
+        }
+    },
+    {
+        "id": 160,
+        "name": "Air Conditioners",
+        "slug": "air-conditioners",
+        "parent": 67,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 8,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/160"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/67"
+                }
+            ]
+        }
+    },
+    {
+        "id": 190,
+        "name": "Audio &amp; Video",
+        "slug": "audio-video",
+        "parent": 163,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/190"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/163"
+                }
+            ]
+        }
+    },
+    {
+        "id": 161,
+        "name": "Audios &amp; Theaters",
+        "slug": "audios-theaters",
+        "parent": 67,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 4,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/161"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/67"
+                }
+            ]
+        }
+    },
+    {
+        "id": 51,
+        "name": "Babies &amp; Moms",
+        "slug": "babies-moms",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/51"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 162,
+        "name": "Bags",
+        "slug": "bags",
+        "parent": 65,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 4,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/162"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/65"
+                }
+            ]
+        }
+    },
+    {
+        "id": 204,
+        "name": "Bodycare",
+        "slug": "bodycare",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 1,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/204"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    },
+    {
+        "id": 58,
+        "name": "Books &amp; Office",
+        "slug": "books-office",
+        "parent": 0,
+        "description": "",
+        "display": "default",
+        "image": null,
+        "menu_order": 0,
+        "count": 2,
+        "base": "product-category",
+        "barcode": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/58"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                }
+            ]
+        }
+    }
+]
