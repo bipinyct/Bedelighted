@@ -31,12 +31,12 @@ const HomeScreen = ({ navigation }) => {
 
   const fetchCategories = async () => {
     try {
-      const username = 'ck_57108566e3f4d4facbc61bbda4f859d111cb2a43';
-      const password = 'cs_1aa90fcf28e75013ebf854f41f04bcfca33a0796';
+      const username = 'ck_5bcc0f744a83dee987717ff0e392dfe64ab1816e';
+      const password = 'cs_ea362dca506ded042d99a09696c06b0e676be588';
       const auth = 'Basic ' + btoa(username + ':' + password);
 
       const response = await axios.get(
-        'https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories',
+        'https://dev.bedelighted.afucent.com/wp-json/wc/v2/products/categories',
         {
           headers: {
             Authorization: auth,
@@ -55,12 +55,12 @@ const HomeScreen = ({ navigation }) => {
 
   const fetchProducts = async () => {
     try {
-      const username = 'ck_57108566e3f4d4facbc61bbda4f859d111cb2a43';
-      const password = 'cs_1aa90fcf28e75013ebf854f41f04bcfca33a0796';
+      const username = 'ck_5bcc0f744a83dee987717ff0e392dfe64ab1816e';
+      const password = 'cs_ea362dca506ded042d99a09696c06b0e676be588';
       const auth = 'Basic ' + btoa(username + ':' + password);
 
       const response = await axios.get(
-        'https://native.bedelighted.afucent.com/wp-json/wc/v2/products',
+        'https://dev.bedelighted.afucent.com/wp-json/wc/v2/products',
         {
           headers: {
             Authorization: auth,

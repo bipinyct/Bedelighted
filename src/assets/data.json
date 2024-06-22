@@ -1,285 +1,2260 @@
 [
     {
-        "id": 158,
-        "name": "4K Ultra HD TVs",
-        "slug": "4k-ultra-hd-tvs",
-        "parent": 139,
+        "id": 5451,
+        "name": "Beard Caren Kit",
+        "slug": "beard-caren-kit",
+        "permalink": "https://dev.bedelighted.afucent.com/product/beard-caren-kit/",
+        "date_created": "2024-06-19T14:07:08",
+        "date_created_gmt": "2024-06-19T14:07:08",
+        "date_modified": "2024-06-19T14:07:09",
+        "date_modified_gmt": "2024-06-19T14:07:09",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SkU777788000",
+        "price": "450",
+        "regular_price": "500",
+        "sale_price": "450",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4944,
+                "date_created": "2024-06-07T11:12:57",
+                "date_created_gmt": "2024-06-07T11:12:57",
+                "date_modified": "2024-06-07T11:12:57",
+                "date_modified_gmt": "2024-06-07T11:12:57",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-8-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 2,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>450.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>500.00</bdi></span></del>",
+        "related_ids": [
+            281,
+            76,
+            87,
+            40,
+            90
+        ],
+        "meta_data": [
+            {
+                "id": 15905,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15906,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15907,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15908,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15909,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15910,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15920,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15921,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15922,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15923,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15924,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15925,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15926,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15927,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15947,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15948,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/158"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5451"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
-                }
-            ],
-            "up": [
-                {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/139"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }
     },
     {
-        "id": 189,
-        "name": "Accessories",
-        "slug": "accessories",
-        "parent": 160,
+        "id": 5447,
+        "name": "ToothPaste",
+        "slug": "toothpaste",
+        "permalink": "https://dev.bedelighted.afucent.com/product/toothpaste/",
+        "date_created": "2024-06-19T14:04:50",
+        "date_created_gmt": "2024-06-19T14:04:50",
+        "date_modified": "2024-06-19T14:05:50",
+        "date_modified_gmt": "2024-06-19T14:05:50",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SKU556477585",
+        "price": "750",
+        "regular_price": "800",
+        "sale_price": "750",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 298,
+                "name": "Bath, Body &amp; Hygiene",
+                "slug": "bath-body-hygiene"
+            },
+            {
+                "id": 315,
+                "name": "Oral Hygiene",
+                "slug": "oral-hygiene"
+            },
+            {
+                "id": 316,
+                "name": "Toothpaste",
+                "slug": "toothpaste"
+            },
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4919,
+                "date_created": "2024-06-07T10:54:14",
+                "date_created_gmt": "2024-06-07T10:54:14",
+                "date_modified": "2024-06-07T10:54:14",
+                "date_modified_gmt": "2024-06-07T10:54:14",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-5-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 4,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>750.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>800.00</bdi></span></del>",
+        "related_ids": [
+            96,
+            50,
+            73,
+            19,
+            60
+        ],
+        "meta_data": [
+            {
+                "id": 15849,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15850,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15851,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15852,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15853,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15854,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15864,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15865,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15866,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15867,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15868,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15869,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15870,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15871,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15891,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15892,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/189"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5447"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
-                }
-            ],
-            "up": [
-                {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/160"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }
     },
     {
-        "id": 159,
-        "name": "Accessories",
-        "slug": "accessories-clothing-apparel",
-        "parent": 65,
+        "id": 5445,
+        "name": "Sanitary Pads",
+        "slug": "sanitary-pads-2",
+        "permalink": "https://dev.bedelighted.afucent.com/product/sanitary-pads-2/",
+        "date_created": "2024-06-19T14:03:43",
+        "date_created_gmt": "2024-06-19T14:03:43",
+        "date_modified": "2024-06-19T14:03:44",
+        "date_modified_gmt": "2024-06-19T14:03:44",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SKU6665545454",
+        "price": "600",
+        "regular_price": "700",
+        "sale_price": "600",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 298,
+                "name": "Bath, Body &amp; Hygiene",
+                "slug": "bath-body-hygiene"
+            },
+            {
+                "id": 312,
+                "name": "Feminine Hygiene",
+                "slug": "feminine-hygiene"
+            },
+            {
+                "id": 314,
+                "name": "Sanitary Pads",
+                "slug": "sanitary-pads"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4944,
+                "date_created": "2024-06-07T11:12:57",
+                "date_created_gmt": "2024-06-07T11:12:57",
+                "date_modified": "2024-06-07T11:12:57",
+                "date_modified_gmt": "2024-06-07T11:12:57",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-8-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 4,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>600.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>700.00</bdi></span></del>",
+        "related_ids": [
+            5376,
+            5357,
+            5361,
+            5379,
+            5423
+        ],
+        "meta_data": [
+            {
+                "id": 15805,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15806,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15807,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15808,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15809,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15810,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15820,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15821,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15822,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15823,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15824,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15825,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15826,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15827,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15847,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15848,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/159"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5445"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
-                }
-            ],
-            "up": [
-                {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/65"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }
     },
     {
-        "id": 160,
-        "name": "Air Conditioners",
-        "slug": "air-conditioners",
-        "parent": 67,
+        "id": 5443,
+        "name": "Intimate Care Cream",
+        "slug": "intimate-care-cream",
+        "permalink": "https://dev.bedelighted.afucent.com/product/intimate-care-cream/",
+        "date_created": "2024-06-19T14:02:24",
+        "date_created_gmt": "2024-06-19T14:02:24",
+        "date_modified": "2024-06-19T14:08:48",
+        "date_modified_gmt": "2024-06-19T14:08:48",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SKU455678788888",
+        "price": "400",
+        "regular_price": "500",
+        "sale_price": "400",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 298,
+                "name": "Bath, Body &amp; Hygiene",
+                "slug": "bath-body-hygiene"
+            },
+            {
+                "id": 312,
+                "name": "Feminine Hygiene",
+                "slug": "feminine-hygiene"
+            },
+            {
+                "id": 313,
+                "name": "Intimate Care",
+                "slug": "intimate-care"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4944,
+                "date_created": "2024-06-07T11:12:57",
+                "date_created_gmt": "2024-06-07T11:12:57",
+                "date_modified": "2024-06-07T11:12:57",
+                "date_modified_gmt": "2024-06-07T11:12:57",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-8-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 8,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>400.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>500.00</bdi></span></del>",
+        "related_ids": [
+            5370,
+            5431,
+            5429,
+            5353,
+            5439
+        ],
+        "meta_data": [
+            {
+                "id": 15762,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15763,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15764,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15765,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15766,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15767,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15776,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15777,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15778,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15779,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15780,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15781,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15782,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15783,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15803,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15804,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/160"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5443"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
-                }
-            ],
-            "up": [
-                {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/67"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }
     },
     {
-        "id": 190,
-        "name": "Audio &amp; Video",
-        "slug": "audio-video",
-        "parent": 163,
+        "id": 5439,
+        "name": "Body Butter Cream",
+        "slug": "body-butter-cream",
+        "permalink": "https://dev.bedelighted.afucent.com/product/body-butter-cream/",
+        "date_created": "2024-06-19T13:59:26",
+        "date_created_gmt": "2024-06-19T13:59:26",
+        "date_modified": "2024-06-19T14:01:05",
+        "date_modified_gmt": "2024-06-19T14:01:05",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SKU7788877999",
+        "price": "300",
+        "regular_price": "400",
+        "sale_price": "300",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 298,
+                "name": "Bath, Body &amp; Hygiene",
+                "slug": "bath-body-hygiene"
+            },
+            {
+                "id": 311,
+                "name": "Body Butters",
+                "slug": "body-butters"
+            },
+            {
+                "id": 310,
+                "name": "Body Lotions &amp; Moisturizers",
+                "slug": "body-lotions-moisturizers"
+            },
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4944,
+                "date_created": "2024-06-07T11:12:57",
+                "date_created_gmt": "2024-06-07T11:12:57",
+                "date_modified": "2024-06-07T11:12:57",
+                "date_modified_gmt": "2024-06-07T11:12:57",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-8-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 2,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>300.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>400.00</bdi></span></del>",
+        "related_ids": [
+            87,
+            60,
+            96,
+            47,
+            34
+        ],
+        "meta_data": [
+            {
+                "id": 15706,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15707,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15708,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15709,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15710,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15711,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15721,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15722,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15723,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15724,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15725,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15726,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15727,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15728,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15748,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15749,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/190"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5439"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
-                }
-            ],
-            "up": [
-                {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/163"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }
     },
     {
-        "id": 161,
-        "name": "Audios &amp; Theaters",
-        "slug": "audios-theaters",
-        "parent": 67,
+        "id": 5437,
+        "name": "Body Lotion & Oils",
+        "slug": "body-lotion-oils",
+        "permalink": "https://dev.bedelighted.afucent.com/product/body-lotion-oils/",
+        "date_created": "2024-06-19T13:58:21",
+        "date_created_gmt": "2024-06-19T13:58:21",
+        "date_modified": "2024-06-19T13:58:21",
+        "date_modified_gmt": "2024-06-19T13:58:21",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SKU5678687779",
+        "price": "500",
+        "regular_price": "600",
+        "sale_price": "500",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 298,
+                "name": "Bath, Body &amp; Hygiene",
+                "slug": "bath-body-hygiene"
+            },
+            {
+                "id": 310,
+                "name": "Body Lotions &amp; Moisturizers",
+                "slug": "body-lotions-moisturizers"
+            },
+            {
+                "id": 309,
+                "name": "Body Lotions &amp; Oils",
+                "slug": "body-lotions-oils"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4918,
+                "date_created": "2024-06-07T10:54:13",
+                "date_created_gmt": "2024-06-07T10:54:13",
+                "date_modified": "2024-06-07T10:54:13",
+                "date_modified_gmt": "2024-06-07T10:54:13",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-4-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 4,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>500.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>600.00</bdi></span></del>",
+        "related_ids": [
+            5373,
+            5359,
+            5370,
+            5427,
+            5435
+        ],
+        "meta_data": [
+            {
+                "id": 15662,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15663,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15664,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15665,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15666,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15667,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15677,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15678,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15679,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15680,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15681,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15682,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15683,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15684,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15704,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15705,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/161"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5437"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
-                }
-            ],
-            "up": [
-                {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/67"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }
     },
     {
-        "id": 51,
-        "name": "Babies &amp; Moms",
-        "slug": "babies-moms",
-        "parent": 0,
+        "id": 5435,
+        "name": "Hand wash",
+        "slug": "hand-wash-3",
+        "permalink": "https://dev.bedelighted.afucent.com/product/hand-wash-3/",
+        "date_created": "2024-06-19T13:51:52",
+        "date_created_gmt": "2024-06-19T13:51:52",
+        "date_modified": "2024-06-19T13:52:19",
+        "date_modified_gmt": "2024-06-19T13:52:19",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SKU4647576676",
+        "price": "450",
+        "regular_price": "500",
+        "sale_price": "450",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 298,
+                "name": "Bath, Body &amp; Hygiene",
+                "slug": "bath-body-hygiene"
+            },
+            {
+                "id": 308,
+                "name": "Hand Wash",
+                "slug": "hand-wash"
+            },
+            {
+                "id": 306,
+                "name": "Hands &amp; Foot Care",
+                "slug": "hands-foot-care"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4919,
+                "date_created": "2024-06-07T10:54:14",
+                "date_created_gmt": "2024-06-07T10:54:14",
+                "date_modified": "2024-06-07T10:54:14",
+                "date_modified_gmt": "2024-06-07T10:54:14",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-5-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 2,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>450.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>500.00</bdi></span></del>",
+        "related_ids": [
+            5357,
+            5373,
+            5379,
+            5344,
+            5367
+        ],
+        "meta_data": [
+            {
+                "id": 15616,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15617,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15618,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15619,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15620,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15621,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15631,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15632,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15633,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15634,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15635,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15636,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15637,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15638,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15658,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15659,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/51"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5435"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }
     },
     {
-        "id": 162,
-        "name": "Bags",
-        "slug": "bags",
-        "parent": 65,
+        "id": 5433,
+        "name": "Manicure Pedicare",
+        "slug": "manicure-pedicare",
+        "permalink": "https://dev.bedelighted.afucent.com/product/manicure-pedicare/",
+        "date_created": "2024-06-19T13:50:08",
+        "date_created_gmt": "2024-06-19T13:50:08",
+        "date_modified": "2024-06-19T13:50:08",
+        "date_modified_gmt": "2024-06-19T13:50:08",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SKU567687667",
+        "price": "550",
+        "regular_price": "600",
+        "sale_price": "550",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 298,
+                "name": "Bath, Body &amp; Hygiene",
+                "slug": "bath-body-hygiene"
+            },
+            {
+                "id": 306,
+                "name": "Hands &amp; Foot Care",
+                "slug": "hands-foot-care"
+            },
+            {
+                "id": 307,
+                "name": "Manicure Pedicure Tools",
+                "slug": "manicure-pedicure-tools"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4879,
+                "date_created": "2024-06-07T10:05:01",
+                "date_created_gmt": "2024-06-07T10:05:01",
+                "date_modified": "2024-06-07T10:05:01",
+                "date_modified_gmt": "2024-06-07T10:05:01",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-1-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 4,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>550.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>600.00</bdi></span></del>",
+        "related_ids": [
+            5353,
+            5445,
+            5367,
+            5361,
+            5439
+        ],
+        "meta_data": [
+            {
+                "id": 15572,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15573,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15574,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15575,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15576,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15577,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15587,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15588,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15589,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15590,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15591,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15592,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15593,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15594,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15614,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15615,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/162"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5433"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
-                }
-            ],
-            "up": [
-                {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/65"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }
     },
     {
-        "id": 204,
-        "name": "Bodycare",
-        "slug": "bodycare",
-        "parent": 0,
+        "id": 5431,
+        "name": "Bath & Shower Kits",
+        "slug": "bath-shower-kits-2",
+        "permalink": "https://dev.bedelighted.afucent.com/product/bath-shower-kits-2/",
+        "date_created": "2024-06-19T13:45:58",
+        "date_created_gmt": "2024-06-19T13:45:58",
+        "date_modified": "2024-06-19T13:45:59",
+        "date_modified_gmt": "2024-06-19T13:45:59",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SKU667667767",
+        "price": "550",
+        "regular_price": "600",
+        "sale_price": "550",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 303,
+                "name": "Bath &amp; Shower",
+                "slug": "bath-shower"
+            },
+            {
+                "id": 305,
+                "name": "Bath &amp; Shower Kits",
+                "slug": "bath-shower-kits"
+            },
+            {
+                "id": 298,
+                "name": "Bath, Body &amp; Hygiene",
+                "slug": "bath-body-hygiene"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4918,
+                "date_created": "2024-06-07T10:54:13",
+                "date_created_gmt": "2024-06-07T10:54:13",
+                "date_modified": "2024-06-07T10:54:13",
+                "date_modified_gmt": "2024-06-07T10:54:13",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-4-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 1,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>550.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>600.00</bdi></span></del>",
+        "related_ids": [
+            5443,
+            5427,
+            5376,
+            5429,
+            5350
+        ],
+        "meta_data": [
+            {
+                "id": 15528,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15529,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15530,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15531,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15532,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15533,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15543,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15544,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15545,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15546,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15547,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15548,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15549,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15550,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15570,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15571,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/204"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5431"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }
     },
     {
-        "id": 58,
-        "name": "Books &amp; Office",
-        "slug": "books-office",
-        "parent": 0,
+        "id": 5429,
+        "name": "Bath Accessories",
+        "slug": "bath-accessories-2",
+        "permalink": "https://dev.bedelighted.afucent.com/product/bath-accessories-2/",
+        "date_created": "2024-06-19T13:43:30",
+        "date_created_gmt": "2024-06-19T13:43:30",
+        "date_modified": "2024-06-19T13:43:31",
+        "date_modified_gmt": "2024-06-19T13:43:31",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
         "description": "",
-        "display": "default",
-        "image": null,
+        "short_description": "",
+        "sku": "SKU99988777",
+        "price": "750",
+        "regular_price": "800",
+        "sale_price": "750",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": "",
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 303,
+                "name": "Bath &amp; Shower",
+                "slug": "bath-shower"
+            },
+            {
+                "id": 304,
+                "name": "Bath Accessories",
+                "slug": "bath-accessories"
+            },
+            {
+                "id": 298,
+                "name": "Bath, Body &amp; Hygiene",
+                "slug": "bath-body-hygiene"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4944,
+                "date_created": "2024-06-07T11:12:57",
+                "date_created_gmt": "2024-06-07T11:12:57",
+                "date_modified": "2024-06-07T11:12:57",
+                "date_modified_gmt": "2024-06-07T11:12:57",
+                "src": "https://dev.bedelighted.afucent.com/wp-content/uploads/2024/06/skin3.png-8-scaled.jpeg",
+                "name": "skin3.png",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
         "menu_order": 0,
-        "count": 2,
-        "base": "product-category",
-        "barcode": "",
+        "price_html": "<ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>750.00</bdi></span></ins><del><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#8377;</span>800.00</bdi></span></del>",
+        "related_ids": [
+            5431,
+            5379,
+            5364,
+            5376,
+            5435
+        ],
+        "meta_data": [
+            {
+                "id": 15484,
+                "key": "_deal_sales_counts",
+                "value": "0"
+            },
+            {
+                "id": 15485,
+                "key": "_deal_quantity",
+                "value": ""
+            },
+            {
+                "id": 15486,
+                "key": "mf_pbt_product_ids",
+                "value": "0"
+            },
+            {
+                "id": 15487,
+                "key": "martfury_pbt_discount_all",
+                "value": "0"
+            },
+            {
+                "id": 15488,
+                "key": "martfury_pbt_checked_all",
+                "value": "no"
+            },
+            {
+                "id": 15489,
+                "key": "martfury_pbt_quantity_discount_all",
+                "value": "2"
+            },
+            {
+                "id": 15499,
+                "key": "_cashback_type",
+                "value": "percent"
+            },
+            {
+                "id": 15500,
+                "key": "_cashback_amount",
+                "value": ""
+            },
+            {
+                "id": 15501,
+                "key": "_atum_attachments",
+                "value": "[]"
+            },
+            {
+                "id": 15502,
+                "key": "video_position",
+                "value": "1"
+            },
+            {
+                "id": 15503,
+                "key": "woolentor_total_stock_quantity",
+                "value": ""
+            },
+            {
+                "id": 15504,
+                "key": "_saleflash_text",
+                "value": ""
+            },
+            {
+                "id": 15505,
+                "key": "custom_badges_text",
+                "value": ""
+            },
+            {
+                "id": 15506,
+                "key": "_is_new",
+                "value": "0"
+            },
+            {
+                "id": 15526,
+                "key": "_wkmp_max_product_qty_limit",
+                "value": "11"
+            },
+            {
+                "id": 15527,
+                "key": "om_disable_all_campaigns",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "purchase_price": null,
+        "supplier_id": null,
+        "supplier_sku": "",
+        "barcode": null,
+        "atum_controlled": true,
+        "out_stock_date": null,
+        "out_stock_threshold": null,
+        "inheritable": false,
+        "inbound_stock": null,
+        "stock_on_hold": 0,
+        "sold_today": 0,
+        "sales_last_days": 0,
+        "reserved_stock": null,
+        "customer_returns": null,
+        "warehouse_damage": null,
+        "lost_in_post": null,
+        "other_logs": null,
+        "out_stock_days": 0,
+        "lost_sales": 0,
+        "has_location": false,
+        "update_date": "2024-06-21T07:11:57",
+        "atum_locations": [],
+        "atum_stock_status": "instock",
+        "restock_status": false,
+        "sales_update_date": "2024-06-21T07:11:57",
+        "calc_backorders": null,
         "_links": {
             "self": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories/58"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products/5429"
                 }
             ],
             "collection": [
                 {
-                    "href": "https://native.bedelighted.afucent.com/wp-json/wc/v2/products/categories"
+                    "href": "https://dev.bedelighted.afucent.com/wp-json/wc/v3/products"
                 }
             ]
         }

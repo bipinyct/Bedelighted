@@ -23,12 +23,12 @@ const ProductPage = ({ route }) => {
 
   const fetchProductDetails = async () => {
     try {
-      const username = 'ck_57108566e3f4d4facbc61bbda4f859d111cb2a43';
-      const password = 'cs_1aa90fcf28e75013ebf854f41f04bcfca33a0796';
+      const username = 'ck_5bcc0f744a83dee987717ff0e392dfe64ab1816e';
+      const password = 'cs_ea362dca506ded042d99a09696c06b0e676be588';
       const auth = 'Basic ' + btoa(username + ':' + password);
 
       const response = await axios.get(
-        `https://native.bedelighted.afucent.com/wp-json/wc/v2/products/${productId}`,
+        `https://dev.bedelighted.afucent.com/wp-json/wc/v2/products/${productId}`,
         {
           headers: {
             Authorization: auth,
@@ -73,11 +73,20 @@ const ProductPage = ({ route }) => {
           <View style={styles.textContainer}>
             <Text style={styles.productTitle}>{product.name}</Text>
             <Text style={styles.productPrice}>₹ {product.price}</Text>
-            <RenderHTML
-              contentWidth={width}
-              source={{ html: product.description }}
-              tagsStyles={htmlStyles}
-            />
+            {product.description ? (
+              <RenderHTML
+                contentWidth={width}
+                source={{ html: product.description }}
+                tagsStyles={htmlStyles}
+              />
+            ) : (
+              <Text style={styles.noDescription}>No description available</Text>
+            )}
+            <Text style={styles.productCategory}>Category: {product.categories.map(cat => cat.name).join(', ')}</Text>
+            <Text style={styles.productReviews}>Reviews: {product.rating_count}</Text>
+            <Text style={styles.productAttributes}>
+              {product.attributes.map(attr => `${attr.name}: ${attr.options.join(', ')}`).join('\n')}
+            </Text>
           </View>
         </>
       )}
@@ -124,6 +133,27 @@ const styles = StyleSheet.create({
   productPrice: {
     fontSize: 20,
     color: 'green',
+    marginBottom: 10,
+  },
+  productCategory: {
+    fontSize: 16,
+    marginBottom: 10,
+    color: '#666',
+  },
+  productReviews: {
+    fontSize: 16,
+    marginBottom: 10,
+    color: '#666',
+  },
+  productAttributes: {
+    fontSize: 16,
+    marginBottom: 10,
+    color: '#666',
+  },
+  noDescription: {
+    fontSize: 16,
+    color: '#666',
+    fontStyle: 'italic',
     marginBottom: 10,
   },
 });
