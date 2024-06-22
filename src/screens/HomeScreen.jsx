@@ -167,29 +167,32 @@ const HomeScreen = ({ navigation }) => {
           padding: 10,
         }}
       >
-        Deals of the Day
-      </Text>
-      <View style={styles.categoryContainer}>
-        {products.slice(0, 2).map(product => (
-          <TouchableOpacity
-            style={styles.itemContainer}
-            key={product.id}
-            onPress={() => navigation.navigate('Product', { productId: product.id })}
-          >
-            {product.images && product.images[0] && product.images[0].src ? (
-              <Image source={{ uri: product.images[0].src }} style={styles.categoryImages} />
-            ) : (
-              <View style={styles.catImagePlaceholder}>
-                <Text>No Image</Text>
-              </View>
-            )}
-            <View style={styles.textContainer}>
-              <Text>₹ {product.price}</Text>
-              <Text style={styles.itemText}>{product.name}</Text>
-            </View>
-          </TouchableOpacity>
-        ))}
+
+  Deals of the Day
+</Text>
+
+<View style={styles.categoryContainer}>
+  {products.slice(0, 2).map(product => (
+    <TouchableOpacity
+      style={styles.itemContainer}
+      key={product.id}
+      onPress={() => navigation.navigate('Product', { productId: product.id })}
+    >
+      {product.images && product.images[0] && product.images[0].src ? (
+        <Image source={{ uri: product.images[0].src }} style={styles.categoryImages} />
+      ) : (
+        <View style={styles.catImagePlaceholder}>
+          <Text>No Image</Text>
+        </View>
+      )}
+      <View style={styles.textContainer}>
+        <Text>₹ {product.price}</Text>
+        <Text style={styles.itemText}>{product.name}</Text>
       </View>
+    </TouchableOpacity>
+  ))}
+  </View>
+
       <View style={styles.banner2Container}>
         <ImageBackground
           source={{
@@ -231,6 +234,7 @@ const HomeScreen = ({ navigation }) => {
         contentContainerStyle={styles.listContainer}
       />
     </ScrollView>
+  
   );
 };
 
