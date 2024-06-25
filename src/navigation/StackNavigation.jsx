@@ -15,6 +15,8 @@ import CategoryScreen from '../screens/CategoryScreen';
 import SearchScreen from '../screens/SearchScreen';
 import CartScreen from '../screens/CartScreen';
 import ProductPage from '../screens/ProductPage';
+import ProductList from '../screens/ProductList';
+import SubcategoryScreen from '../screens/SubcategoryScreen'; // Import SubcategoryScreen
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -182,6 +184,11 @@ const StackNavigator = () => {
           name="ProductPage"
           component={ProductPage}
           options={{ headerShown: true, title: 'Products' }}
+        />
+        <Stack.Screen
+          name="SubcategoryScreen"
+          component={SubcategoryScreen}
+          options={{ headerShown: true, title: 'Subcategory Products' }} // Add SubcategoryScreen
         />
       </Stack.Navigator>
     </NavigationContainer>

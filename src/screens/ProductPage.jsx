@@ -73,15 +73,11 @@ const ProductPage = ({ route }) => {
           <View style={styles.textContainer}>
             <Text style={styles.productTitle}>{product.name}</Text>
             <Text style={styles.productPrice}>₹ {product.price}</Text>
-            {product.description ? (
-              <RenderHTML
-                contentWidth={width}
-                source={{ html: product.description }}
-                tagsStyles={htmlStyles}
-              />
-            ) : (
-              <Text style={styles.noDescription}>No description available</Text>
-            )}
+            <RenderHTML
+              contentWidth={width}
+              source={{ html: product.description }}
+              tagsStyles={htmlStyles}
+            />
             <Text style={styles.productCategory}>Category: {product.categories.map(cat => cat.name).join(', ')}</Text>
             <Text style={styles.productReviews}>Reviews: {product.rating_count}</Text>
             <Text style={styles.productAttributes}>
@@ -149,12 +145,6 @@ const styles = StyleSheet.create({
     fontSize: 16,
     marginBottom: 10,
     color: '#666',
-  },
-  noDescription: {
-    fontSize: 16,
-    color: '#666',
-    fontStyle: 'italic',
-    marginBottom: 10,
   },
 });
 

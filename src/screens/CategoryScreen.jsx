@@ -67,11 +67,11 @@ const CategoryScreen = ({ navigation }) => {
 
 const Accordion = ({ title, categoryId, navigation }) => {
   const [isCollapsed, setIsCollapsed] = useState(true);
-  const [products, setProducts] = useState([]);
+  const [subcategories, setSubcategories] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  const fetchProducts = async () => {
+  const fetchSubcategories = async () => {
     setLoading(true);
     try {
       const username = 'ck_5bcc0f744a83dee987717ff0e392dfe64ab1816e';
@@ -79,7 +79,7 @@ const Accordion = ({ title, categoryId, navigation }) => {
       const auth = 'Basic ' + btoa(username + ':' + password);
 
       const response = await axios.get(
-        `https://dev.bedelighted.afucent.com/wp-json/wc/v2/products?category=${categoryId}`,
+        `https://dev.bedelighted.afucent.com/wp-json/wc/v2/products/categories?parent=${categoryId}`,
         {
           headers: {
             Authorization: auth,
@@ -87,7 +87,7 @@ const Accordion = ({ title, categoryId, navigation }) => {
         }
       );
 
-      setProducts(response.data);
+      setSubcategories(response.data);
       setLoading(false);
     } catch (error) {
       setError(error.message);
@@ -98,7 +98,7 @@ const Accordion = ({ title, categoryId, navigation }) => {
   const handlePress = () => {
     setIsCollapsed(!isCollapsed);
     if (isCollapsed) {
-      fetchProducts();
+      fetchSubcategories();
     }
   };
 
@@ -115,13 +115,18 @@ const Accordion = ({ title, categoryId, navigation }) => {
           ) : error ? (
             <Text>Error: {error}</Text>
           ) : (
-            products.map((product) => (
+            subcategories.map((subcategory) => (
               <TouchableOpacity
-                key={product.id}
-                onPress={() => navigation.navigate('ProductPage', { productId: product.id })}
+                key={subcategory.id}
+                onPress={() =>
+                  navigation.navigate('SubcategoryScreen', {
+                    subcategoryId: subcategory.id,
+                    subcategoryName: subcategory.name,
+                  })
+                }
                 style={styles.subItem}
               >
-                <Text>{product.name}</Text>
+                <Text>{subcategory.name}</Text>
               </TouchableOpacity>
             ))
           )}

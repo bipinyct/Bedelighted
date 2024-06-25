@@ -44,7 +44,7 @@ const HomeScreen = ({ navigation }) => {
         }
       );
 
-      const selectedCategories = response.data.slice(0, 4);
+      const selectedCategories = response.data.slice(1, 5);
       setCategories(selectedCategories);
     } catch (error) {
       setError(error.message);
